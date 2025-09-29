@@ -14,21 +14,25 @@ Soy **Fundador de [La Trinchera México](https://latrincheramexico.com)**, un es
 
 ---
 
-🚀 Tecnologías y herramientas
-🖥️ Frontend
+## 🚀 Tecnologías y herramientas
+
+- ** 🖥️ Frontend
 - Lenguajes base: HTML5, CSS3, JavaScript (Vanilla)
 - Frameworks y librerías: React, Next.js, Remix.js, Vue.js, Angular
 - Estilos y UI: Tailwind CSS, Material UI, diseño responsivo, accesibilidad (WCAG)
-⚙️ Backend
+  
+- ** ⚙️ Backend
 - Node.js, NestJS
-🗄️ Bases de datos
+- ** 🗄️ Bases de datos
 - PostgreSQL, MySQL, MongoDB, Redis, Neon
 - ORM: TypeORM, Prisma
-🔧 DevOps y despliegue
+  
+- ** 🔧 DevOps y despliegue
 - Git, GitHub, GitHub Actions
 - Vercel, Render, Cloudinary
 - CI/CD, gestión de entornos, despliegues serverless
-📈 Adicionales
+
+- ** 📈 Adicionales
 - SEO técnico y estratégico
 - Google Analytics, Google Ads
 - Optimización de rendimiento y trazabilidad
