@@ -53,7 +53,7 @@ Soy **Fundador de [La Trinchera México](https://latrincheramexico.com)**, un es
 ## 📫 Contacto
 
 - 🌐 [latrincheramexico.com](https://latrincheramexico.com)
-- 📧 [jorge.castro.cruz@hotmail.com] 
+- 📧 jorge.castro.cruz@hotmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/jorge-castro-953267144/)
 
 ---
