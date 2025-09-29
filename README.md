@@ -1,6 +1,6 @@
 # 👋 Hola, soy Jorge
 
-Soy **Fundador y Director General de [La Trinchera México](https://latrincheramexico.com)**, un espacio que fusiona gastronomía mexicana, cultura visual y organización de eventos sociales en CDMX. Lidero el desarrollo tecnológico y operativo del proyecto, integrando soluciones digitales seguras, escalables y centradas en la experiencia del usuario.
+Soy **Fundador de [La Trinchera México](https://latrincheramexico.com)**, un espacio que fusiona gastronomía mexicana, cultura visual y organización de eventos sociales en CDMX. Lidero el desarrollo tecnológico y operativo del proyecto, integrando soluciones digitales seguras, escalables y centradas en la experiencia del usuario.
 
 ---
 
