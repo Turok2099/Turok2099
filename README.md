@@ -42,8 +42,12 @@ Soy **Fundador de [La Trinchera México](https://latrincheramexico.com)**, una e
 ## 📦 Proyectos destacados
 
 - **La Trinchera México** – Plataforma de eventos sociales  
+- 🌐 [latrincheramexico.com](https://latrincheramexico.com) 
+
+- **The Kaln CDMX** – Sitio Web Institucional optimizado para leads mediante SEO 
+- 🌐 [theklanbjj.com.mx](https://theklanbjj.com.mx)
+
 - **Train Up** – Plataforma de gestión administrativa para gimnasios, actualmente en proceso de escalabilidad  
-- **The Kaln CDMX** – Proyecto SEO en producción para un gimnasio de Jiu-Jitsu brasileño  
 
 ---
 
@@ -67,7 +71,7 @@ Soy **Fundador de [La Trinchera México](https://latrincheramexico.com)**, una e
 
 ## 📫 Contacto
 
-- 🌐 [latrincheramexico.com](https://latrincheramexico.com)  
+
 - 📧 jorge.castro.cruz@hotmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/jorge-castro-953267144/)  
 
